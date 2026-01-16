@@ -116,11 +116,17 @@ Hello world is intentionally used because it **maximizes runtime and toolchain o
 ## Hardware this was made on:
 
 NASM 3.01 (2025-10-13)
+
 GCC/G++ 15.2.1 (2025-11-12)
+
 Binutils 2.45.1
+
 Go go1.25.6 
+
 Nim 2.0.8 (2024-09-08)
+
 Rustc 1.92.0 (2025-12-08)
+
 Zig 0.15.2
 
 ## Reproducibility
