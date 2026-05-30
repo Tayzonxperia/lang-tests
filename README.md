@@ -113,7 +113,7 @@ Hello world is intentionally used because it **maximizes runtime and toolchain o
 
 ---
 
-## Hardware this was made on:
+## Software used:
 
 NASM 3.01 (2025-10-13)
 
